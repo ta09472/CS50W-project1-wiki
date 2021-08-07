@@ -1,5 +1,5 @@
 # CS50W-project1-wiki
-* Design a Wikipedia-like online encyclopedia. *
+*Design a Wikipedia-like online encyclopedia.
 
 ## Background
 
