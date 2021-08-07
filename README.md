@@ -14,7 +14,7 @@ Read through GitHub’s Markdown guide to get an understanding for how Markdown�
 
 By having one Markdown file represent each encyclopedia entry, we can make our entries more human-friendly to write and edit. When a user views our encyclopedia entry, though, we’ll need to convert that Markdown into HTML before displaying it to the user.
 
-📄 ## Requirements
+## 📄 Requirements 📄
 
 ### Entry Page: 
 - ✅ Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
