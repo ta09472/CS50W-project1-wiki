@@ -1,5 +1,5 @@
 
-# CS50W-project1-wiki
+# -wiki
 📘 *Design a Wikipedia-like online encyclopedia.*
 
 
